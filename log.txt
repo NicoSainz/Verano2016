@@ -1,0 +1,29 @@
+commit 3ad4ecd9e7dbbaa922f6a60003670d8a1f405a7c
+Author: Nicolas <nicolas.sainz.pineda@gmail.com>
+Date:   Thu Jun 23 11:32:52 2016 -0600
+
+    Footer
+
+commit 3d12f5b14aa4bfb36749477d5b79e3e9affa3764
+Author: Nicolas <nicolas.sainz.pineda@gmail.com>
+Date:   Thu Jun 23 11:29:43 2016 -0600
+
+    Bootstrap integrado
+
+commit 1c5069fed11ae024ec017d1c8d94851b29af3554
+Author: Nicolas <nicolas.sainz.pineda@gmail.com>
+Date:   Thu Jun 23 11:16:25 2016 -0600
+
+    Bootstrap integrado
+
+commit cec72f0547638065d108d614d6ebaba9db7e6fef
+Author: Nicolas <nicolas.sainz.pineda@gmail.com>
+Date:   Thu Jun 23 11:09:52 2016 -0600
+
+    Encabezado de la Pagina
+
+commit 613a2ac5fe30f9551936f1bba227027eeb50a75a
+Author: Nicolas <nicolas.sainz.pineda@gmail.com>
+Date:   Thu Jun 23 11:04:08 2016 -0600
+
+    Estructura base del Proyecto
